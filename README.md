@@ -7,3 +7,9 @@ Git has a bit of a learning curve, but using it will mean you’ll be able to sp
 This document explains how you can use git to save your work to a remote server and then access it later from another computer. We’ll be using GitHub as a hosting service and the GitHub desktop app to keep things simple. However, if you’d like to learn how to use git via the command line and/or another hosting service just ask.
 
 **Please try and complete these steps BEFORE the practical class – you’ll have Unity work to do in the practical! However, if you get stuck, please do ask for help in the practical.**
+
+## Step 1: Create a GitHub Account
+
+The first thing you’ll need to do is create a GitHub personal account. To do this, go to https://github.com and follow the instructions to create your account. If you’re already got a GitHub account, please feel free to use that of course.
+
+If you sign up using your university email, you’ll be eligible to apply for a student account that offers some otherwise paid features for free here: https://education.github.com/students 
