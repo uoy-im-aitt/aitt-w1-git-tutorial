@@ -90,6 +90,21 @@ Once you’ve published your repository to the server, you’ll have to use the 
 
 Make a change to your text file and see if you can follow the process above to save them onto the GitHub.
 
+## Step 7: Cloning Your Repository onto a Different Computer
+
+Your repository is now safely stored on the internet!  If you want to access from a different computer, you can use the clone command to do this. The clone command basically makes a new copy of your repository on the computer you’re working on. In this step, we’ll learn how to do this. 
+
+Before you do this step, you’ll either need to move to a new computer in the lab or delete the repository from the computer you’re working on. If you’re doing the latter, simply delete the repository folder off the desktop.
+
+To clone your repository onto the computer you’re working on, press the “Clone a Repository from the Internet” in GitHub Desktop.
+
+![Clone a repository from the internet](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/clone.png)
+
+You’ll be presented with a list of all the repositories on your GitHub account. Choose the one you want and where you want to put it (I recommend the desktop for now) and press the “Clone” button.
+
+![Clone a repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/get.png)
+
+You should fine that the last version of your code that you pushed to the server is now available on your local computer to run and edit.
 
 
 
