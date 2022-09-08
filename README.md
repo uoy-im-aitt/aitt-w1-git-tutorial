@@ -13,3 +13,11 @@ This document explains how you can use git to save your work to a remote server 
 The first thing you’ll need to do is create a GitHub personal account. To do this, go to https://github.com and follow the instructions to create your account. If you’re already got a GitHub account, please feel free to use that of course.
 
 If you sign up using your university email, you’ll be eligible to apply for a student account that offers some otherwise paid features for free here: https://education.github.com/students 
+
+## Step 2: Creating your First Repository
+
+A git repository is a place where you can save your code (and multiple versions of it, but let’s not worry about that for now). I’d recommend that you create a unique repository for every Unity project in this module (i.e. one per practical class). In this step, we’re going to create your first repository.
+
+To get started, open the GitHub Desktop application – you can find it under Spotlight Search for GitHub Desktop – and login. Once you’ve logged in, choose “Create a new repository on your hard drive” on the page that appears.
+
+[Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create-repo.png)
