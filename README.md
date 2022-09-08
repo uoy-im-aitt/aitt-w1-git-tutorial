@@ -48,4 +48,30 @@ Once you’ve done this, you should see that your text file now appears in a lis
 
 ![Current repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/current.png)
 
+## Step 4: Committing Changes
 
+One of the coolest things about git is that is doesn’t just let you save the latest version of your work. Rather, you can save lots of versions of your work and go back to older ones if you need to. When using git, you can create a snapshot of a version of your work using the commit command. For example, you might want to commit a snapshot of your repository every time you complete a practical exercise, or when you’ve got a new feature working in your assessment. In this step, we’re going to use the commit command to make a snapshot of our repository with the single text file we’ve added to it.
+
+The list of changes you saw in the previous step is actually a list of all files that have been added or changed in your project since the last commit (in our case just one text file). You can save a snapshot of these changes by using the commit dialogue at the bottom of the list.
+
+![Commit to main](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/commit.png)
+
+It’s good practice to add a message to your commit, so you know what version of your work it represents. For example, I’ve added the message “First file added to project”. Once you’ve written a suitable message, press the “Commit to main” button to execute the commit command.
+
+Step 5: Publishing Your Repository to GitHub
+
+It’s important to note that at this stage you’ve only saved your changes to the local version of the git repository on your computer. Therefore, if you delete your repo now your work will be lost. In this step, we’re going to publish our changes on the GitHub server, so they will be saved there too.
+
+You can do this by pressing the “Publish Repository” button in GitHub desktop.
+
+![Publish your repository to github](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/publish.png)
+
+It’s important you choose the “Keep this code private” option for your university work. If you don’t other students may be able to see your work and copy it. 
+
+![Keep this code private](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/private.png)
+
+Once you’ve published your repository it’ll now appear on your GitHub account. You can see it online by pressing the “View on GitHub” button.
+
+![View on github](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/view.png)
+
+A website will load showing all the files in your repository. See if you can you browse it to check if the text file your added is there.
