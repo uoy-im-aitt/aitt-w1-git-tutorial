@@ -58,7 +58,7 @@ The list of changes you saw in the previous step is actually a list of all files
 
 It’s good practice to add a message to your commit, so you know what version of your work it represents. For example, I’ve added the message “First file added to project”. Once you’ve written a suitable message, press the “Commit to main” button to execute the commit command.
 
-Step 5: Publishing Your Repository to GitHub
+## Step 5: Publishing Your Repository to GitHub
 
 It’s important to note that at this stage you’ve only saved your changes to the local version of the git repository on your computer. Therefore, if you delete your repo now your work will be lost. In this step, we’re going to publish our changes on the GitHub server, so they will be saved there too.
 
