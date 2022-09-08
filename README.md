@@ -21,3 +21,20 @@ A git repository is a place where you can save your code (and multiple versions 
 To get started, open the GitHub Desktop application – you can find it under Spotlight Search for GitHub Desktop – and login. Once you’ve logged in, choose “Create a new repository on your hard drive” on the page that appears.
 
 ![Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create.png)
+
+In the popup that appears, give your repo a name. I’ve chosen “my-first-repo”.
+
+![Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create.png)
+
+Then choose where you’d like it to be stored on your local computer. I’d recommend placing it on the desktop.
+
+![Local](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/local.png)
+
+Choose Unity for the “Git Ignore” option. This will add a special file to your git repo that prevents the large numbers of temporary files that Unity creates from being saved, making your projects much quicker to upload and download.
+
+![Ignore](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/ignore.png)
+
+Finally press the “Create Repository” button to create the repo. 
+
+## Step 3: Adding a Files to Your Repository
+
