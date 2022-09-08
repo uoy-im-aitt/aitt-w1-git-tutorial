@@ -8,6 +8,8 @@ This document explains how you can use git to save your work to a remote server 
 
 **Please try and complete these steps BEFORE the practical class – you’ll have Unity work to do in the practical! However, if you get stuck, please do ask for help in the practical.**
 
+If you're working from home (I did call this homework afterall!) you'll need to download GitHub Desktop from here: https://desktop.github.com
+
 ## Step 1: Create a GitHub Account
 
 The first thing you’ll need to do is create a GitHub personal account. To do this, go to https://github.com and follow the instructions to create your account. If you’re already got a GitHub account, please feel free to use that of course.
