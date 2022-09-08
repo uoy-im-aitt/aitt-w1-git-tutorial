@@ -119,7 +119,7 @@ This tutorial is actually a git template repository. Therefore, you can try this
 3. Make a change to the tutorial and commit it
 4. Push the change back to your repository and check if you can see it on GitHub 
 
-You can also install GitHub Desktop onto your own computer at home from the following link: https://desktop.github.com. This means that if you don’t finish your work in class, you can simply clone it onto your own computer when you get home and carry on from where you got up to.
+You can also install GitHub Desktop onto your own computer at home from the following link: https://desktop.github.com. This means that if you don’t finish your work in class, you can clone it onto your own computer when you get home and carry on from where you got up to.
 
 
 
