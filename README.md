@@ -20,4 +20,5 @@ A git repository is a place where you can save your code (and multiple versions 
 
 To get started, open the GitHub Desktop application – you can find it under Spotlight Search for GitHub Desktop – and login. Once you’ve logged in, choose “Create a new repository on your hard drive” on the page that appears.
 
+<img src="https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create-repo.png" width="200%" height="200% />
 ![Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create-repo.png)
