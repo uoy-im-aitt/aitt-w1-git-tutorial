@@ -102,7 +102,7 @@ To clone your repository onto the computer you’re working on, press the “Clo
 
 You’ll be presented with a list of all the repositories on your GitHub account. Choose the one you want and where you want to put it (I recommend the desktop for now) and press the “Clone” button.
 
-![Clone a repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/get.png)
+![Clone a repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/list.png)
 
 You should fine that the last version of your code that you pushed to the server is now available on your local computer to run and edit.
 
