@@ -75,3 +75,22 @@ Once you’ve published your repository it’ll now appear on your GitHub accoun
 ![View on github](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/view.png)
 
 A website will load showing all the files in your repository. See if you can you browse it to check if the text file your added is there.
+
+## Step 6: Making and Pushing a Change
+
+Every time we want to save changes to our repository onto the GitHub server, we’ll follow a similar process to the one we’ve completed above:
+
+1. Make some changes
+2. Save a snapshot of those changes using the commit command
+3. Push the changes up to the server to they’re saved for later
+
+Once you’ve published your repository to the server, you’ll have to use the “push” command to save subsequent changes to the GitHub server. This is easy, just press the “Push origin” button instead of the publish button.
+
+![Push commits to the origin remote](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/push.png)
+
+Make a change to your text file and see if you can follow the process above to save them onto the GitHub.
+
+
+
+
+
