@@ -117,7 +117,7 @@ To make things a bit simpler, for all practical classes where you'll be asked to
 This tutorial is actually a git template repository. Therefore, you can try this out now by following these steps:
 
 1. Press the "use this template button" at the top right of this page. This will create a copy of the repository in your own GitHub account
-2. Clone the copy you have created in your own account (i.e. not this repository) onto your local computer using GitHub desktop (i.e. as in step 7)
+2. Clone the copy you have created in your own account (i.e. not this repository) onto your local computer using GitHub desktop
 3. Make a change to a file in the repository (e.g. try corect one of the intetnional typors in this tutoriel in the Readme.md file)
 4. Push the change back to your own version of the repository and check if you can see it on the GitHub website 
 
