@@ -26,7 +26,7 @@ To get started, open the GitHub Desktop application – you can find it under Sp
 
 In the popup that appears, give your repo a name. I’ve chosen “my-first-repo”.
 
-![Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/create.png)
+![Create a new repository on your hard drive](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/name.png)
 
 Then choose where you’d like it to be stored on your local computer. I’d recommend placing it on the desktop.
 
