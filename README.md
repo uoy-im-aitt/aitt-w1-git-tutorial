@@ -106,20 +106,20 @@ You’ll be presented with a list of all the repositories on your GitHub account
 
 ![Clone a repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/list.png)
 
-You should fine that the last version of your code that you pushed to the server is now available on your local computer to run and edit.
+You should find that the last version of your code that you pushed to the server is now available on your local computer to run and edit.
 
 ## How will we use git in this module?
 
-When used in the most basic way described in this document, a git repo is a bit like a book in a library. You can check it out onto your computer to run and make changes and then when you’re done you can check it back into GitHub to save the changes you’ve made. I’d recommend you use Git in this basic way to save and back up your work by by performing the following steps in every class.
+When used in the most basic way described in this document, a git repo is a bit like a book in a library. You can check it out onto your computer to run and make changes and then when you’re done you can check it back into GitHub to save the changes you’ve made. I’d recommend you use Git in this basic way to save and back up your work during this module.
 
-To make things a bit simpler, we’ve created template git repositories for every practical class. You’ll be able to copy these onto your GitHub account and then clone them onto your local machine. This will give you all the files you’ll need to start a class.
+To make things a bit simpler, for all practical classes where you'll be asked to build on an existing Unity project we've created template git repositories. These templates are repositories that already include all the files you'll need for a practical class. You can press a single button ("use this template") to create a new repository in your personal GitHub account based on one of these templates. All you'll then need to do is clone that copy of the repository on your machine to access all the files you'll need to start the class.
 
 This tutorial is actually a git template repository. Therefore, you can try this out now by following these steps:
 
-1. Press the "use this template button". This will create a copy of the repository in your GitHub account
-2. Clone the copy you have created in your personal account (i.e. not this repository) onto your local computer
-3. Make a change to the tutorial and commit it
-4. Push the change back to your repository and check if you can see it on GitHub 
+1. Press the "use this template button" at the top right of this page. This will create a copy of the repository in your own GitHub account
+2. Clone the copy you have created in your own account (i.e. not this repository) onto your local computer using GitHub desktop (i.e. as in step 7)
+3. Make a change to a file in the repository (e.g. try corect one of the intetnional typors in this tutoriel in the Readme.md file)
+4. Push the change back to your own version of the repository and check if you can see it on the GitHub website 
 
 You can also install GitHub Desktop onto your own computer at home from the following link: https://desktop.github.com. This means that if you don’t finish your work in class, you can clone it onto your own computer when you get home and carry on from where you got up to.
 
