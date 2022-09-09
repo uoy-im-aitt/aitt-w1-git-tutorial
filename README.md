@@ -44,7 +44,7 @@ You now have a git repository on your local computer. To see your git repository
 
 ![View the files of your repository in finder](https://github.com/UoY-IM-MPIE/mpie-git-tutorial/blob/main/Instructions/finder.png)
 
-You’ll notice it’s just an empty folder for now! However, any files that you place within this folder can be tracked and stored by the git system. Let’s try this out by dragging a file into your repository folder. 
+You’ll notice it’s just an empty folder for now! However, any files that you place within this folder can be tracked and stored by the git system. Let’s try this out by creating and dragging a simple text file into your repository folder. 
 
 Once you’ve done this, you should see that your text file now appears in a list in the GitHub desktop application under the list of changes. This means that it’s now part of the repository. 
 
