@@ -6,9 +6,7 @@ Git has a bit of a learning curve, but using it will mean you’ll be able to sp
 
 This document explains how you can use git to save your work to a remote server and then access it later from another computer. We’ll be using GitHub as a hosting service and the GitHub desktop app to keep things simple. However, if you’d like to learn how to use git via the command line just ask.
 
-**Please try and complete these steps BEFORE the practical class – you’ll have Unity work to do in the practical! However, if you get stuck, please do ask for help in the practical.**
-
-If you're working from home (I did call this homework after all!) you'll need to download [GitHub Desktop](https://desktop.github.com).
+Many of you will already be familiar with Git (and also the text of this guide!) from MPIE. However, if you're from the AI for the Creative Industries MSc or would just like a refresher please do complete these tasks to prepare you for the rest of the module.
 
 ## Step 1: Create a GitHub Account
 
