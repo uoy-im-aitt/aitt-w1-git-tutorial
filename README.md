@@ -121,5 +121,11 @@ This tutorial is actually a git template repository. Therefore, you can try this
 
 You can also install GitHub Desktop onto your own computer at home from the following link: https://desktop.github.com. This means that if you don’t finish your work in class, you can clone it onto your own computer when you get home and carry on from where you got up to.
 
+## Optional extensions to push your skills
+
+1. Read about what git actually is and how it works [in this tutorial](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F). Understanding what's going on under the good can really help you use git effectivley.
+2. Can you repeat the tasks on this page using the git command line tool instead of GitHub desktop? It's a great skill to learn. Try out [this tutorial from W3C](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFxIrWsO6CAxVIh1wKHb-PA1kQFnoECBMQAQ&url=https%3A%2F%2Fwww.w3schools.com%2Fgit%2F&usg=AOvVaw1qD4fR1rgJvtyEJ-rUh9A0&opi=89978449) to learn some of the basic commands.
+3. We'll be using git as individuals in this module. But it's real power is in supporting collaboration. Learn about one of the most fundamental concepts for team use of git called branching [in this tutorial](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
+
 
 
